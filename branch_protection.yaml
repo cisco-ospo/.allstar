@@ -1,3 +1,5 @@
 optConfig:
   optOutStrategy: true
+  # TODO: Review policy
+  optOutPrivateRepos: true
 action: issue

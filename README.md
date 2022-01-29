@@ -1,5 +1,4 @@
-# Example .allstar Quickstart Repository
+# .allstar
 
-This repository can be forked into your organization as `.allstar` to quickly
-enable issue creation for all Allstar policies on all repositories with the
-default settings.
+[Allstar](https://github.com/ossf/allstar) configuration for the
+[Cisco Open](https://github.com/cisco-open) GitHub organization.
